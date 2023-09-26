@@ -48,13 +48,59 @@
 
 
 
-def mul(x,y):
-    mu=x*y
-    return mu
+# dict1 ={"name":"noha","age":23}
+# dict2 ={"city":"gaza",
+#         "gendar":"female"}
+# conctenatedicts={"name":"rama",
+#                    "age":23,
+#                   "city":"salem",
+#                   "gendar":"female"}
+# print(dict1["name"])
+# print(dict2["city"])
 
-num1=int(input("entar num1"))
-num2=int(input("entar num1"))
-print(mul(num1,num2))
+
+
+# len=int(input("entar num1"))
+# width=int(input("entar num2"))
+# # if width >= 1:
+# #     print("done")
+# # else:
+# #     # print("erorr")
+#      rec= len * width
+#  print(f " rec = {rec}")
+
+# try:
+#          len=int(input("entar num1"))
+#          width=int(input("entar num2"))
+#          if len <=0:
+#           print("erorr")
+#          else:
+#
+#            rec= len * width
+#            print(f"rec="[rec])
+#
+# except Exception as e:
+#      print("not erorr")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

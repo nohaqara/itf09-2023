@@ -69,18 +69,18 @@
 #      rec= len * width
 #  print(f " rec = {rec}")
 
-try:
-         len=int(input("entar num1"))
-         width=int(input("entar num2"))
-         if len <=0:
-          print("erorr")
-         else:
-
-           rec= len * width
-           print(f"rec="[rec])
-
-except Exception as e:
-     print("not erorr")
+# try:
+#          len=int(input("entar num1"))
+#          width=int(input("entar num2"))
+#          if len <=0:
+#           print("erorr")
+#          else:
+#
+#            rec= len * width
+#            print(f"rec="[rec])
+#
+# except Exception as e:
+#      print("not erorr")
 
 
 
